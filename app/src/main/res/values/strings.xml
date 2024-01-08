@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application name: ShareCat</string>
+    <string name="info_app">Info about app</string>
+    <string name="name_app">Share Cat</string>
+    <string name="year">Creation year: 2023</string>
+    <string name="info_dev">Info about developer</string>
+    <string name="dev_name">Name: Tatiana Kazimirovich</string>
+    <string name="dev_age">Age: 19</string>
+    <string name="dev_status">Status: BSUIR student</string>
+    <string name="about_screen">AboutScreen</string>
+    <string name="home_screen">HomeScreen</string>
+    <string name="cat_age">Age: </string>
+    <string name="cat_cut_level">Cuteness level: </string>
+    <string name="cat_color">Color: </string>
+</resources>
